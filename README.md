@@ -18,6 +18,6 @@ I am a **Data Analyst** specializing in **football performance**, with expertise
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![CSV](https://img.shields.io/badge/-CSV-FFD700?style=flat-square&logoColor=black) ![XML](https://img.shields.io/badge/-XML-FF6600?style=flat-square&logoColor=white) ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logoColor=white)
 
 ## 📢 Contact  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/jonesrocha/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seu-usuario/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/jonesrocha/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JonesRoch/) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jonesrochl@gmail.com)
 
 📌 Always looking for new challenges in **football data analytics**. Let's connect! 🚀
