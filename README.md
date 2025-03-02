@@ -1,19 +1,36 @@
-<h1 align="center">Hi 👋, I'm Jones Rocha</h1>
-<h3 align="center">I am a data analyst specializing in football performance</h3>
+# ⚽ Data Analyst | Football Performance Specialist  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonesroch&label=Profile%20views&color=0e75b6&style=flat" alt="jonesroch" /> </p>
+### 📌 About Me
+I am a **Data Analyst specializing in football**, with expertise in:
+- **Programming Languages:** Python 🐍, R 📊, MySQL 💾
+- **Data Visualization Tools:** Tableau 📈, Power BI 📊
+- **Football Analytics Platforms:** Wyscout ⚽, Opta Data 📑, Metrica Sports 🎥
+- **Women's Football Analytics:** Extensive experience in analyzing women's football data
+- **Menstrual Cycle & Performance:** Specialized in studying the impact of the menstrual cycle on athlete performance
 
-- 👯 I’m looking to collaborate on **Data Analysis Projects**
+---
 
-- 📫 How to reach me **jonesroch@gmail.com**
+### 🔧 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jonesroch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonesroch" height="30" width="40" /></a>
-<a href="https://kaggle.com/jonesrocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jonesrocha" height="30" width="40" /></a>
-</p>
+| Category            | Tools & Technologies |
+|--------------------|---------------------|
+| **Languages**       | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Data Viz**        | ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
+| **Football Data**   | ![Wyscout](https://img.shields.io/badge/-Wyscout-000000?style=flat) ![Opta](https://img.shields.io/badge/-Opta-0057B8?style=flat) ![Metrica Sports](https://img.shields.io/badge/-Metrica%20Sports-FF6600?style=flat) |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonesroch&show_icons=true&locale=en&layout=compact" alt="jonesroch" /></p>
+### 📊 Projects & Research
+- 🏆 **Football Performance Analysis** – Data-driven insights on player and team performance.
+- 🚀 **Impact of Menstrual Cycle on Performance** – Researching physiological effects on female athletes.
+- 📌 **Match Data & Visualization** – Building dashboards to visualize key performance indicators.
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/seu-usuario/)  
+
+---
+
+### 🚀 Let's Analyze the Game!
